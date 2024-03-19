@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+.content {
+    background-color:darkslategray;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 20px;
+}
+h2 {
+    color:white;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+p {
+    padding-left: 30px;
+    color:tan;
+    padding-bottom: 30px;
+    
+}
+#list-item li {
+    padding-left: 0em;
+    color: rgb(32, 66, 178);
+
+}
